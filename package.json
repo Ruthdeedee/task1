@@ -1,0 +1,18 @@
+{
+  "name": "part-a-4",
+  "version": "1.0.0",
+  "description": "node stuff",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "deedee",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

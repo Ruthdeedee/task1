@@ -1,0 +1,36 @@
+## WEEKLY ASSESSMENT 1:
+
+1. Node.js is an open-source, cross-platform, server-side runtime environment built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript on the server, allowing for efficient and scalable server-side programming. One of the main difference between Node.js and languages like PHP and Ruby is that Node.js is event-driven and asynchronous. This means that it can handle a large number of concurrent connections without blocking the execution of other code. In contrast, traditional server-side languages are typically synchronous, meaning that they handle one request at a time.
+
+
+1b. Some of the advantages of using Node.js for backend development are:
+
+a) Node.js is built on Chrome's V8 JavaScript engine, which is known for its speed and efficiency. This makes Node.js a great choice for building fast and scalable applications that can handle a large number of concurrent connections.
+
+b)Node.js has a large and active community of developers, which has resulted in a wide range of third-party modules and packages being available for use. This makes it easy for developers to quickly build applications without having to reinvent the wheel.
+
+c)Node.js allows developers to use JavaScript on the server-side, as well as the client-side. This means that developers can use the same language and tools for both front-end and back-end development, which can save time and reduce development costs.
+
+
+1c. How to install Node.js on your machine:
+
+First, go to the official node.js website https://nodejs.org/en/download/.
+Second, Choose the version of Node.js that you want to download. It's recommended to download the LTS (Long-Term Support) version for stability and support.
+Third, Select the appropriate operating system for your machine (Windows, macOS, or Linux). Fourth,Follow the installation instructions for your operating system. Fifth,Once the installation is complete, open a terminal or command prompt and type "node -v" to check that Node.js is installed and working correctly. You should see the version number of the installed Node.js.
+
+
+1d. Node.js has a module system that allows developers to create and use reusable pieces of code, known as modules. Modules are a fundamental building block of Node.js applications and are used to organize code into smaller, more manageable pieces. How it works:
+
+a. you create a new file and define your code inside it. For example, you might create a file called "utils.js" that contains a function for generating a random number.
+b. In another file, you can load the "utils.js" module using the require() function.
+
+1e. Node Package Manager(NPM) is the default package manager for Node.js. It provides a way for developers to share and reuse code by publishing and installing modules. npm modules are packages of code that can be installed in a Node.js project to add functionality.
+Install:
+
+a. Open a terminal or command prompt and navigate to your project directory.
+b. Type "npm init" to create a new package.json file in your project directory.
+c. 
+Search for the npm module that you want to install using the npm registry website (https://www.npmjs.com/). 
+d. In your terminal or command prompt, type "npm install"
+e. 
+Once the installation is complete, the module will be available for use in your project. # weekly-assessment1
